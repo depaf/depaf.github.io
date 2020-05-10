@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^home-depaf-desarrollo-programacion-af-puerto-vallarta$ index.html
+
+RewriteRule ^services-depaf-desarrollo-programacion-af-puerto-vallarta$ servicios.html
+
+RewriteRule ^projects-depaf-desarrollo-programacion-af-puerto-vallarta$ proyectos.html
